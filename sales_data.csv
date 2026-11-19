@@ -1,0 +1,16 @@
+Date,Product,Category,County,Quantity,Unit_Price
+2026-11-01,Milk,Dairy,Nairobi,120,60
+2026-11-02,Bread,Bakery,Kisumu,80,55
+2026-11-03,Yoghurt,Dairy,Nakuru,90,100
+2026-11-04,Cake,Bakery,Nairobi,45,350
+2026-11-05,Butter,Dairy,Kakamega,60,250
+2026-11-06,Bread,Bakery,Mombasa,110,55
+2026-11-07,Milk,Dairy,Kisumu,150,60
+2026-11-08,Cake,Bakery,Nakuru,35,350
+2026-11-09,Butter,Dairy,Nairobi,75,250
+2026-11-10,Yoghurt,Dairy,Kakamega,100,100
+2026-11-11,Bread,Bakery,Kakamega,95,55
+2026-11-12,Milk,Dairy,Mombasa,130,60
+2026-11-13,Cake,Bakery,Kisumu,40,350
+2026-11-14,Butter,Dairy,Nakuru,55,250
+2026-11-15,Yoghurt,Dairy,Nairobi,85,100
